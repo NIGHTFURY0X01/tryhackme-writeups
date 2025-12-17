@@ -1,4 +1,4 @@
->> Lo-Fi — LFI Writeup
+>> Writeup —  Lo-Fi CTF (TryHackMe)
 ---
 
 **Challenge name:** Lo-Fi
