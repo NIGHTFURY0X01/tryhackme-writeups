@@ -227,8 +227,3 @@ This challenge demonstrated a complete attack chain:
 - Reverse shell access
 - Privilege escalation via misconfigured sudo permissions
 
-A classic and enjoyable beginner-friendly CTF that reinforces core penetration testing concepts.
-
----
-
-**Status:** All ingredients successfully collected ✅
