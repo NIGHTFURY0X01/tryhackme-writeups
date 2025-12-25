@@ -223,8 +223,7 @@ F09EDCB1FCEFC6DFB23DC3505A882655FF77375ED8AA2D1C13F640FCCC2D0C85
 
 **Hashcat Command**
 ```bash
-hashcat -m 1400 "F09EDCB1FCEFC6DFB23DC3505A882655FF77375ED8AA2D1C13F640FCCC2D0C85"
-you.txt ~/wordlists/rockyou.txt.1 ~/wordlists/rockyou.txt.2
+hashcat -m 1400 "F09EDCB1FCEFC6DFB23DC3505A882655FF77375ED8AA2D1C13F640FCCC2D0C85" ~/wordlists/rockyou.txt ~/wordlists/rockyou.txt.1 ~/wordlists/rockyou.txt.2
 ```
 ![Step 11](image/10.png)
 
