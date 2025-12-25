@@ -1,7 +1,5 @@
 >> TryHackMe — 👾Crack The Hash Writeup👾
-```html
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1797082" style='border:none;'></iframe>
-```
+
 **Room:** Crack The Hash  
 
 **Platform:** TryHackMe  
