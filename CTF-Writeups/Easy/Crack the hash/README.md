@@ -32,7 +32,7 @@ The room is divided into **two levels**, each containing multiple hashes of incr
 - **hashcat** – Offline password cracking tool  
 - **CrackStation** – Online hash lookup database  
 - **rockyou.txt** – Common password wordlist  
-- **hash cracking guide** : `https://github.com/NIGHTFURY0X01/hash-cracking-guide` 
+- **hash cracking guide** : https://github.com/NIGHTFURY0X01/hash-cracking-guide
 ---
 
 # LEVEL 1 :
