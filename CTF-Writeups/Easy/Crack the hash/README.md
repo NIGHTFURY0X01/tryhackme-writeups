@@ -248,8 +248,7 @@ paule
 
 **Hashcat Command**
 ```bash
-hashcat -m 1000
--M 1000 "1DFECA0C002AE40B8619ECF94819CC1B" ~/wordlists/rockyou.txt ~/wordlists/rockyou.txt.1 ~/wordlists/rockyou.txt.2
+hashcat -m 1000 "1DFECA0C002AE40B8619ECF94819CC1B" ~/wordlists/rockyou.txt ~/wordlists/rockyou.txt.1 ~/wordlists/rockyou.txt.2
 ```
 ![Step 13](image/12.png)
 
