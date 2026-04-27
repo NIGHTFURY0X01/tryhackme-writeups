@@ -45,9 +45,7 @@ To fuzz the `page` parameter for LFI vulnerabilities, we use **FFuF** with the `
 
 ### Command used:
 ```bash
-ffuf -w /usr/share/wordlists/SecLists/Fuzzing/LFI/LFI-Jhaddix.txt \
--u "http://lo-fi.thm/?page=FUZZ" \
--fl 124
+ffuf -w /usr/share/wordlists/SecLists/Fuzzing/LFI/LFI-Jhaddix.txt -u "http://lo-fi.thm/?page=FUZZ" -fl 124
 ```
 ![Step 3](images/3.png)
 
